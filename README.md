@@ -109,27 +109,23 @@ Simpan screenshot tampilan final ke folder `docs/screenshots/` dengan nama file 
 
 ### Login
 
-File: `docs/screenshots/login.png`
+<img width="1279" height="799" alt="image" src="https://github.com/user-attachments/assets/3fa80976-72cb-48ec-b642-f46187cc2a32" />
 
-<!-- ![Halaman Login](docs/screenshots/login.png) -->
+
 
 ### Dashboard
 
-File: `docs/screenshots/dashboard.png`
-
-<!-- ![Halaman Dashboard](docs/screenshots/dashboard.png) -->
+<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/456ada46-a424-4386-9592-0ebb00147431" />
 
 ### Watchlist
 
-File: `docs/screenshots/watchlist.png`
+<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/62308648-b068-4c04-8958-4635de85ac41" />
 
-<!-- ![Halaman Watchlist](docs/screenshots/watchlist.png) -->
 
 ### Profile
 
-File: `docs/screenshots/profile.png`
+<img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/7442590c-dbe0-4da5-90f3-fe91cbcd9fdb" />
 
-<!-- ![Halaman Profile](docs/screenshots/profile.png) -->
 
 ## Identitas project
 
