@@ -2,8 +2,6 @@
 
 AniTrack adalah aplikasi web sederhana untuk mengelola daftar tontonan anime. Pengguna dapat melihat ringkasan koleksi, memeriksa detail anime, memfilter daftar berdasarkan status tontonan, dan melihat informasi profil.
 
-Project ini dibuat untuk memenuhi Ujian Tengah Semester (UTS) mata kuliah Pemrograman Web menggunakan Laravel 13 dan PHP 8.5.
-
 ## Fitur
 
 - Login simulasi menggunakan username.
