@@ -127,7 +127,7 @@ Simpan screenshot tampilan final ke folder `docs/screenshots/` dengan nama file 
 <img width="960" height="600" alt="image" src="https://github.com/user-attachments/assets/7442590c-dbe0-4da5-90f3-fe91cbcd9fdb" />
 
 
-## Identitas project
+## project
 
 - Nama aplikasi: AniTrack — Anime Watchlist
 - Mata kuliah: Pemrograman Web
@@ -135,7 +135,3 @@ Simpan screenshot tampilan final ke folder `docs/screenshots/` dengan nama file 
 - Bahasa pemrograman: PHP 8.5
 - Dibuat oleh: Dava Julian Eka Putra
 - NIM: 252410103074
-
-## Kredit poster
-
-Poster anime digunakan sebagai ilustrasi koleksi untuk keperluan tugas. Hak cipta setiap karya tetap dimiliki oleh pemegang hak masing-masing.
