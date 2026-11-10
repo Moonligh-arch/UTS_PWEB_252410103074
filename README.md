@@ -103,9 +103,7 @@ Pastikan PHP 8.5, Composer, dan ekstensi PHP yang dibutuhkan Laravel sudah terpa
 
 Aplikasi ini tidak menggunakan database, migration, Eloquent, maupun CRUD. Data anime disimpan dalam array pada `PageController`. Karena Bootstrap dimuat melalui CDN, koneksi internet diperlukan untuk memuat aset Bootstrap.
 
-## Screenshot aplikasi
-
-Simpan screenshot tampilan final ke folder `docs/screenshots/` dengan nama file berikut. Setelah file gambar dimasukkan, aktifkan tautan gambar di setiap bagian.
+## Screenshot 
 
 ### Login
 
